@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Lesson14</string>
+    <string name="btnAdd_name">Add Fragment</string>
+    <string name="btnReplace_name">Replace</string>
+    <string name="btnRemove_name">Remove</string>
+</resources>
